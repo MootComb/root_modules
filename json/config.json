@@ -1,10 +1,10 @@
 {
-  "name": "Template Magisk Modules Repository",
-  "website": null,
+  "name": "Root Modules",
+  "website": "https://github.com/MootComb/root_modules",
   "support": null,
   "donate": null,
   "submission": null,
-  "base_url": "https://example.com/",
+  "base_url": "https://github.com/MootComb",
   "description": null,
   "max_num": 2,
   "enable_log": true,
